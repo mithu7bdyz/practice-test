@@ -1,0 +1,4 @@
+
+The Agile methodology is a practice that encourages continuous development and testing throughout the software development lifecycle of a project. Unlike the Waterfall methodology, the Agile methodology allows for parallel development and testing.
+Agile methodologies attempt to produce the proper product through small cross-functional self-organizing teams that produce small pieces of functionality on a regular basis, allowing for frequent customer input and course correction as needed. In doing so, Agile tries to address the issues that traditional "waterfall" methodologies of delivering huge products over extended periods of time encounter, such as client requirements changing frequently and resulting in the delivery of incorrect products. 
+
